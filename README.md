@@ -1,5 +1,7 @@
 
 # EXP-11 Huffman-Coding
+# NAME: V DIVYASHREE
+# REGISTER NUMBER: 212223230051
 ## Aim
 To implement Huffman coding to compress the data using Python.
 
